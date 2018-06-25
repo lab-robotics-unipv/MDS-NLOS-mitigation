@@ -1,2 +1,2 @@
 # MDS-NLOS-mitigation
-Experiments in NLOS mitigitation under the MDS-based RF Positioning
+Experiments in NLOS mitigitation under MDS-based RF Positioning
